@@ -1,0 +1,48 @@
+h1
+{
+	border: inset rgb(240,0,128) 5px;
+	color: blue;
+	text-align: center;
+	padding: 2px;
+	margin-bottom: 30px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p
+{
+	font-weight: bold;
+	color: rgb(240,0,128);
+}
+
+p::first-line
+{
+	margin: 200px;
+}
+
+select
+{
+	font-style: italic;
+	font-weight: bold;
+	color: blue;
+	background-color: aqua;
+}
+
+.haut
+{
+	background-color: aqua;
+	padding: 10pt;
+}
+
+.milieu
+{
+	background-color: lime;
+	padding: 10pt;
+}
+
+.bas
+{
+	background-color: rgb(0,191,255);
+	padding: 10pt;
+}

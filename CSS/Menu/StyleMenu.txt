@@ -1,0 +1,22 @@
+style attendu pour Menu
+
+titre : bordure effet 3D clair/foncé de couleur #F08080 d'épaisseur 3pt
+        police Arial 16pt gras, de couleur rgb(128,0,0), texte centré
+        marge intérieure de 3pt
+        réduire l'élément et le centrer
+
+paragraphe : en gras, un peu plus large que le titre, centré
+
+sous-titre : police Verdana, 14pt, de couleur rgb(128,0,0), souligné, texte centré 
+
+liste : sans puce, marge extérieures de 3pt, texte centré, caractères gras
+ 
+haut de page : fond #FFDAB9, marge intérieures 10pt
+
+colonne de gauche : fond #DEB887
+                
+colonne du centre : fond #FFFFA0
+
+colonne de droite : fond #CDA0A0
+
+ligne horizontale : largeur 4in, hauteur 4pt, couleur #F08080

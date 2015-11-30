@@ -1,0 +1,94 @@
+body
+{
+	background-color: #FEE9D8;
+}
+
+h1
+{
+	border: double #DEB887 2pt;
+	text-align: center;
+	color: #DEB887;
+	width: 60%;
+	margin-left: 10%;
+}
+
+h1::first-letter
+{
+	font-style: italic;
+	font-size: 250%;
+	color: #A52A2A;
+}
+
+p::first-letter
+{
+	font-weight: bold;
+	font-size: 250%;
+	font-style: italic;
+	color: #A52A2A;
+}
+
+p
+{
+	font-family: distant galaxy;
+}
+
+fieldset
+{
+	width: 100%;
+	border-style: solid;
+	border-color: #A52A2A;
+	margin-bottom: 50pt;
+}
+
+.regroupe
+{
+	width: 100%;
+}
+
+.fs
+{
+	display: inline-block;
+	float: left;
+	margin-right: 100pt;
+}
+
+img
+{
+	width: 20%;
+	float: right;
+	display: inline-block;
+	margin-right: 100px;
+}
+
+legend, caption
+{
+	font-weight: bold;
+}
+
+table
+{
+	background-color: #DEB887;
+	border: outset #A52A2A;
+	overflow: hidden;
+}
+
+.table
+{
+	float: left;
+	position: absolute;
+	bottom: 50;
+}
+
+.cellule
+{
+	border: solid 1px #A52A2A;
+}
+
+hr
+{
+	border: outset #A52A2A;
+	padding: 1pt;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}

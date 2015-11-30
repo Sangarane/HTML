@@ -1,0 +1,30 @@
+/* Style attendu pour Cinema */
+
+fond de page : #FEE9D8
+
+titre : bordure double #DEB887 2pt
+        texte centré de couleur #DEB887
+     	largeur 60%
+        marge extérieure gauche 10%
+        1ère lettre deux fois et demi plus grande, italique de couleur #A52A2A
+
+
+paragraphe 1ère lettre en gras deux fois et demi plus grande, italique de couleur #A52A2A
+
+
+encadré : largeur 80%
+          bordure de couleur #A52A2A 2pt
+          marge extérieure haute 5pt, basse 20pt
+
+image : largeur 80%
+
+légendes diverses en gras
+
+tableau : fond #DEB887, bordure effet 3D clair/foncé de couleur #A52A2A
+ 
+
+ligne horizontale : bordure effet 3D clair/foncé de couleur #A52A2A
+                    marge intérieure 1pt
+                    longueur sur toute la page
+
+encadré+tableau calé à gauche, image à droite, ligne horizontale en dessous

@@ -1,0 +1,18 @@
+/* style attendu pour Rugby */
+
+titre : bordure effet 3D foncé/clair de couleur rgb(240,0,128) d'épaisseur 5pt
+        texte de couleur blue, centré
+        marge intérieure de 2pt
+        réduire l'élément et le centrer
+        marge extérieure basse de 30pt
+
+paragraphe : en gras, de couleur rgb(240,0,128),
+             avec un décalage de 30pt pour la 1ère ligne
+
+liste déroulante : texte en italique, gras, de couleur blue sur un fond aqua 
+ 
+haut de page : fond aqua, marge intérieures 10pt
+
+milieu de page : fond lime, marge intérieures 10pt
+
+bas de page : fond rgb(0,191,255), marge intérieures 10pt

@@ -1,0 +1,73 @@
+h1
+{
+	border: outset #F08080 3pt;
+	width: 30%;
+	font-family: arial;
+	font-size: 16pt;
+	font-weight: bold;
+	color: rgb(128,0,0);
+	text-align: center;
+	padding: 3pt;
+	text-align: center;
+	margin: auto;
+}
+
+p
+{
+	font-weight: bold;
+	text-align: center;
+}
+
+h2
+{
+	font-family: verdana;
+	font-size: 14pt;
+	color: rgb(128,0,0);
+	text-decoration: underline;
+	text-align: center;
+}
+
+ul
+{
+	list-style-type: none;
+	margin: 3pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+.titre
+{
+	background-color: #FFDAB9;
+	padding: 10pt;
+}
+
+.gauche
+{
+	background-color: #DEB887;
+	width: 33.33%;
+	float: left;	
+	display: inline-block;
+}
+
+.centre
+{
+	background-color: #FFFFA0;
+	width: 33.33%;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.droite
+{
+	background-color: #CDA0A0;
+	width: 33.33%;
+	float: right;
+	display: inline-block;
+}
+
+hr
+{
+	width: 400pt;
+	height: 4pt;
+	background-color: #F08080;
+}

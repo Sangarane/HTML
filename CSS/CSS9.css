@@ -1,0 +1,70 @@
+body
+{
+	background-color: rgb(138,64,164);
+}
+
+h1
+{
+	background-color: navy;
+	border: outset white 3pt;
+	color: white;
+	padding: 10pt;
+	text-align: center;
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h2
+{
+	font-size: 16pt;
+	color: #DF01A5;
+	margin-left: 10pt;
+}
+
+p
+{
+	font-family: Times New Roman;
+	font-size: 12pt;
+	color: #610B4B;
+}
+
+img
+{
+	width: 160pt;
+	display: block;
+	margin-top: 200pt;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100pt;
+}
+
+hr
+{
+	width: 30%;
+	border: outset fuchsia 3pt;
+}
+
+.VO
+{
+	background-color: #DBC1F5;
+	padding-top: 20pt;
+	padding-left: 20pt;
+	padding-right: 20pt;
+	padding-bottom: 20pt;
+	margin-bottom: 20pt;
+	width: 270pt;
+	float: left;
+}
+
+.VF
+{
+	background-color: #DBC1F5;
+	padding-top: 20pt;
+	padding-left: 20pt;
+	padding-right: 20pt;
+	padding-bottom: 20pt;
+	margin-bottom: 20pt;
+	width: 340pt;
+	float: right;	
+}
